@@ -1,16 +1,51 @@
-# second_app
+# Quiz Flutter App
 
-A new Flutter project.
+A simple and interactive quiz app designed to test your knowledge on Flutter.
+
+## Features
+
+- Multiple-choice questions on flutter.
+- Real-time score tracking.
+- User-friendly interface with interactive elements.
+- Randomized questions to ensure a varied experience.
+- Restart quiz option
+
+## Screenshots
+
+<p >
+  <img src="assets/images/q1.jpg" alt="Screenshot 1" width="230"/>  
+  <img src="assets/images/q2.jpg" alt="Screenshot 1" width="230"/>  
+  <img src="assets/images/q3.jpg" alt="Screenshot 1" width="230"/>
+  <img src="assets/images/q4.jpg" alt="Screenshot 1" width="230"/>
+</p>
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter SDK: [Install Flutter](https://flutter.dev/docs/get-started/install)
+- Dart SDK (included with Flutter)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/aparnaprabhuu/Quiz-App.git
+    ```
+2. Navigate to the project directory:
+    ```sh
+    cd Quiz-App
+    ```
+3. Install dependencies:
+    ```sh
+    flutter pub get
+    ```
+
+### Running the App
+
+1. Ensure a device is connected or an emulator is running.
+2. Run the app:
+    ```sh
+    flutter run
+    ```
